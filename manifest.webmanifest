@@ -1,0 +1,11 @@
+{
+  "name": "냉파 - 냉장고 파먹기",
+  "short_name": "냉파",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#E9EEF8",
+  "theme_color": "#E9EEF8",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
